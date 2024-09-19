@@ -1,2 +1,6 @@
 helllo
+<<<<<<< HEAD
 hellooooo
+=======
+ccccc
+>>>>>>> 4
